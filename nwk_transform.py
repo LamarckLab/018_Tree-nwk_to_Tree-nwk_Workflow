@@ -11,7 +11,7 @@ with open(r"C:\Users\Lamarck\Desktop\name_date.txt", "r") as f:
             date_dict[sequence_id] = date
 
 # 读取并修改NWK文件
-with open(r"C:\Users\Lamarck\Desktop\tree.fasta.nwk", "r") as f:
+with open(r"C:\Users\Lamarck\Desktop\tree.nwk", "r") as f:
     nwk_content = f.read()
 
 # 匹配序列ID并添加日期
