@@ -1,6 +1,7 @@
 <h1 align="center">🧬 给 Newick 树添加日期标签</h1>
 
 <p align="center"><em>—— 用 Python 给 .nwk 树的叶节点批量追加采样日期</em></p>
+<p align="center"><em>—— 2024.12.09</em></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square" />
